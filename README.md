@@ -1,5 +1,4 @@
-# AI-FileHandling-Project
-Python project demonstrating file handling with JSON persistence and Linked List traversal, including admin authentication
+
 # AI File Handling Project
 
 This project demonstrates **file handling in Python** combined with **Linked List traversal** and **JSON-based data storage**.  
